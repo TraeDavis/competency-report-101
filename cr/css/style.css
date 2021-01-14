@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgba(179, 179, 179, 0.514);
+    background-color: rgba(75, 77, 77, 0.459);
     font-family: 'Roboto Mono', monospace;
     
 }
@@ -66,7 +66,7 @@ nav a:hover{
 
 header{
     height: 400px;
-    background-image: url(../hero.jpg);
+    background-image: url(../img/hero.jpg);
     background-color:rgba(255, 255, 255, 0.521);
     background-blend-mode: screen;
     display: flex;
